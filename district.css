@@ -1,0 +1,19 @@
+img{
+    height: 500px;
+    width: 100%;
+ position: relative;
+ grid-area: image-1;
+    transition: all 0.2s ease-in-out;
+  }
+
+
+  
+  img:hover {
+    transform: scale(1.1);
+  }
+  .nav-logo{
+    height: 50px;
+    width: 60px;
+   margin-left: 5%;
+}
+  
